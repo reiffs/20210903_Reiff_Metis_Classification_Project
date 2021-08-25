@@ -4,9 +4,9 @@ _This repo contains project scoping, MVP concepts, and accompanying analytical d
 ---
 ### **Project scope**
 * **Background:** XXX 
-* **Data & implementation:** XXX
-* **Tool/technology requirements:** XXX     
-* **Objective(s):** XXX     
+* **Data & implementation:** This analysis will leverage a [public data set](https://www.kaggle.com/uciml/mushroom-classification) of >8,000 observations with 23 features, including mushroom shape, color, odor, habitat, and many other factors that may elucidate edibility (binary categorical target).   
+* **Tool/technology requirements:** This analysis will employ kNN, logistic regression, and other applicable models that are deemed relevant or advantageous post-EDA. Visualizations will be constructed with Seaborn/Matplotlib.      
+* **Objective(s):** The objective of this analysis is to build a classification model optimized for accuracy, recall, and precision. An MVP for this project will be a classification model that demonstrates, at the lowest threshold, that edibility can be determined by the other features of the data set superior to naive probability.      
 
 ---
 ### **Findings/conclusions**
