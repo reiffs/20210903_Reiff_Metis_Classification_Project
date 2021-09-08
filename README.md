@@ -10,4 +10,4 @@ _This repo contains project scoping, MVP concepts, and accompanying analytical d
 
 ---
 ### **Findings/conclusions**
-A Random Forest model produces results superior to KNN and logistic regression, as benchmarked by F-beta and ROC-AUC score. Hyperparameter tuning may increase model efficacy and remains further work. 
+A Random Forest model produces results superior to KNN and logistic regression, as benchmarked by F2 and ROC-AUC score. Hyperparameter tuning may increase model efficacy and remains further work. 
